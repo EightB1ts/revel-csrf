@@ -95,12 +95,3 @@ Javascript-code sample to perform AJAX calls with jQuery 1.5 and newer.
 	});
 
 You can call `csrf.ExemptedFullPath()` or `csrf.ExemptedGlob()` to exempt routes from CSRF checks. See `app/init.go` in demo application.
-
-## TODO
-
-* Unique token per-page.
-* Test cases.
-
-## CONTRIBUTORS
-* Otto Bretz
-* Allen Dang
